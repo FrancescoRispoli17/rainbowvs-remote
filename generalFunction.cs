@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace VSTestWithGit
 {
-    internal class Program
+    internal class generalFunction
     {
-        static void Main()
+        public static void m1()
         {
-            generalFunction.m1();
+
+            Console.WriteLine("this is the first");
         }
     }
 }
-
